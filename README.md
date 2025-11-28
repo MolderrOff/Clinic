@@ -10,6 +10,8 @@
 Добавлена для получения данных простенькая страничка на React.\
 
 Порядок сборки решения C#\
+Создайте базу данных миграцией в папке Clinic.Infrastructure\
+командой Update-Database\
 Clinic.sln в папке Clinic\
 apt install -y dotnet-sdk-9.0\
 dotnet restore\
